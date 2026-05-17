@@ -717,8 +717,27 @@ img {
 }
 
 .site-footer {
+  position: relative;
+  overflow: hidden;
   background: #ffffff;
   border-top: 1px solid var(--line);
+}
+
+.site-footer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("./images/footer-watermark.png");
+  background-repeat: no-repeat;
+  background-position: right -70px bottom -45px;
+  background-size: min(620px, 46vw) auto;
+  opacity: 0.12;
+  pointer-events: none;
+}
+
+.site-footer > * {
+  position: relative;
+  z-index: 1;
 }
 
 .footer-main {
