@@ -1,0 +1,400 @@
+
+Product Requirements Document (PRD)
+mindcraft.ai — Website Content & Structure
+Document Version: 1.0Prepared For: Development TeamWebsite: mindcraft.aiLast Updated: May 2026
+1. Executive Summary
+This PRD outlines all content, structure, and functional requirements for the mindcraft.ai website. The site will position mindcraft.ai as a leading AI transformation partner for businesses, offering end-to-end artificial intelligence services — from strategic consulting to production-grade deployments. All copy has been crafted for SEO performance, clarity, and conversion.
+2. Project Goals
+Establish mindcraft.ai as a trusted, enterprise-grade AI services brand
+Drive inbound leads via organic search (SEO-first content strategy)
+Educate prospective clients on AI capabilities and ROI
+Showcase industry-specific AI solutions and client success stories
+Provide a clear conversion path: Assessment → Consultation → Engagement
+3. Target Audience
+Segment
+Description
+C-Suite / Decision Makers
+CEOs, CTOs, CDOs looking to adopt AI at scale
+Technology Leaders
+VPs of Engineering, IT Heads exploring AI tooling
+Business Unit Heads
+Ops, Finance, HR leaders seeking workflow automation
+Startups & Scale-ups
+Founders wanting to embed AI into their product stack
+4. Site Architecture (Pages)
+mindcraft.ai/├── Home (/)├── Services (/services/)│   ├── AI Consulting (/services/ai-consulting/)│   ├── Generative AI (/services/generative-ai/)│   ├── Machine Learning (/services/machine-learning/)│   ├── Agentic AI (/services/agentic-ai/)│   ├── Data Analytics (/services/data-analytics/)│   └── AI Literacy & Training (/services/ai-literacy/)├── Industry Solutions (/industries/)│   ├── Retail│   ├── Healthcare│   ├── Finance│   ├── Cybersecurity│   ├── Legal│   └── Travel & Logistics├── Products (/products/)├── Case Studies (/case-studies/)├── Resources / Blog (/resources/)├── AI Readiness Assessment (/ai-assessment/)├── About Us (/about/)└── Contact (/contact/)
+5. Page-by-Page Content Requirements
+5.1 Home Page (/)
+SEO Metadata
+Field
+Value
+Title Tag
+AI Consulting & Generative AI Solutions for Business | mindcraft.ai
+Meta Description
+mindcraft.ai helps businesses unlock the power of AI — from strategy to deployment. Expert AI consulting, Generative AI, Machine Learning, Agentic AI & Data Analytics.
+Primary Keyword
+AI consulting services for businesses
+Secondary Keywords
+generative AI solutions, enterprise AI transformation, agentic AI platform, AI readiness assessment
+Section 1 — Hero Banner
+Headline:Transform Your Business with Purpose-Built AI Solutions
+Sub-headline:mindcraft.ai partners with forward-thinking organisations to design, build, and scale intelligent AI systems — from strategy through to deployment.
+Supporting Trust Signals (displayed as ticker/list):
+Experienced Leadership Across AI & Data
+Multi-Industry Delivery Expertise
+20+ Years of Combined Technology Experience
+Full-Stack AI — Including Generative AI & LLMs
+Industry-Certified AI & Data Professionals
+Commercially Efficient Engagement Models
+Primary CTA Button: Book a Free ConsultationSecondary CTA Button: Explore Our Services
+Section 2 — Intro / Value Proposition
+Heading: Our Services
+Body Copy:In an era where artificial intelligence is reshaping every industry, mindcraft.ai stands at the forefront — helping businesses harness the transformative potential of Generative AI, Machine Learning, and intelligent automation. We go beyond technology delivery; we are your strategic AI partner, working alongside your team to craft solutions that drive measurable business outcomes.
+Whether you're beginning your AI journey or scaling existing capabilities, our full-stack approach ensures your organisation moves faster, smarter, and with confidence.
+Section 3 — Services Grid
+Six service cards with icon, title, short description, and a "Learn More" CTA link.
+Service 1 — AI ConsultingCard Heading: AI Strategy & ConsultingDescription: Cut through complexity with a clear AI roadmap. Our consultants help you align technology investments with business goals — identifying where AI can deliver the greatest impact and how to get there without the guesswork.CTA: Explore AI Consulting →
+Service 2 — Generative AICard Heading: Generative AI DevelopmentDescription: Move from AI curiosity to competitive advantage. We leverage the latest large language models (LLMs) and generative techniques to build scalable, production-ready solutions that redefine what's possible for your business.CTA: Explore Generative AI →
+Service 3 — Machine LearningCard Heading: Machine Learning EngineeringDescription: Turn raw data into reliable intelligence. Our ML engineers build predictive models and automated decision systems that sharpen your competitive edge — empowering your teams to focus on outcomes that matter.CTA: Explore Machine Learning →
+Service 4 — Agentic AICard Heading: Agentic AI SystemsDescription: Go beyond automation. Our Agentic AI solutions deploy autonomous intelligent agents that reason, plan, and act — streamlining complex workflows and elevating the customer experience at every touchpoint.CTA: Explore Agentic AI →
+Service 5 — Data AnalyticsCard Heading: Data Analytics & InsightsDescription: Stop drowning in data silos. We help organisations unify fragmented data sources, extract actionable insights, and build analytics foundations that power sustainable, scalable growth.CTA: Explore Data Analytics →
+Service 6 — AI Literacy & TrainingCard Heading: AI Literacy & Workforce EnablementDescription: Your people are your greatest AI asset. We deliver structured AI literacy programmes that build awareness, capability, and confidence across every level of your organisation — from leadership to frontline teams.CTA: Explore AI Literacy →
+Section 4 — AI Readiness Assessment (CTA Banner)
+Heading: How AI-Ready Is Your Business?
+Body Copy:Unsure where your organisation stands on the AI adoption curve? Take our free AI Readiness Assessment — a tailored diagnostic tool that evaluates your current capabilities, highlights gaps, and delivers a personalised AI roadmap to help you move forward with clarity.
+CTA Button: Take the Free AssessmentSupporting Note: Takes less than 5 minutes. No sign-up required.
+Section 5 — Industry Use Cases
+Heading: AI Solutions Across Every Industry
+Intro: Real-world AI isn't one-size-fits-all. We deliver domain-specific solutions built for the operational realities of your sector.
+Industry
+Use Case Preview
+Retail
+Intelligent inventory optimisation and demand forecasting for retail operations
+Healthcare
+Streamlined health claims processing and clinical documentation automation
+Finance
+Advanced AI-powered credit scoring and financial risk modelling
+Cybersecurity
+Automated vulnerability detection and proactive AI-driven threat response
+Legal
+AI-enhanced contract review for faster, more precise legal analysis
+Travel & Logistics
+Intelligent route optimisation for freight, delivery, and supply chains
+CTA Button: Discover AI Use Cases for Your Industry
+Section 6 — Testimonials
+Heading: Trusted by Leaders Across Industries
+Testimonial 1:"The team at mindcraft.ai brought rare depth and breadth to our AI initiatives — and delivered results that genuinely exceeded our expectations."— Senior Technology Programme Manager, Global E-commerce Leader
+Testimonial 2:"mindcraft.ai's ML capabilities helped us achieve a step-change in predictive analytics accuracy. Their approach was methodical, collaborative, and highly effective."— IT Head, Manufacturing Conglomerate
+Testimonial 3:"Their consultants reframed how we think about smart product development. The insights they delivered have had a lasting impact on our innovation roadmap."— Director, Technology Services Company
+Testimonial 4:"We're on a major digital transformation journey — and mindcraft.ai's expertise is helping us build the intelligent platform we need to drive that change."— Co-Founder & CEO, Technology Startup
+Testimonial 5:"Exceptional domain knowledge, innovative thinking, and solutions that were perfectly tailored to our specific requirements."— CEO, Research & Analytics Firm
+Testimonial 6:"mindcraft.ai handled a highly complex engagement with remarkable precision and delivered outstanding outcomes within agreed timelines."— Managing Director, UK Technology Consultancy
+Section 7 — Awards & Recognition
+Heading: Industry Recognition[Developer Note: Display award logos/badges here — source from brand assets]
+Section 8 — Tech Stack & Partners
+Heading: Powered by Best-in-Class Technology[Developer Note: Display partner/technology logos — AWS, Azure, OpenAI, Google Cloud, etc. Source from brand assets]
+Sub-heading: Our Partners[Developer Note: Display partner company logos]
+5.2 Services Landing Page (/services/)
+SEO Metadata
+Field
+Value
+Title Tag
+AI Services — Consulting, GenAI, ML & Agentic AI | mindcraft.ai
+Meta Description
+Explore mindcraft.ai's full-stack AI services: strategic consulting, Generative AI development, Machine Learning, Agentic AI systems, Data Analytics, and AI training programmes.
+Page Heading: Full-Stack AI Services for Modern Businesses
+Intro Paragraph:From defining your AI strategy to deploying production systems at scale, mindcraft.ai delivers end-to-end AI services designed for real business outcomes. Our multidisciplinary team combines deep technical expertise with commercial acumen — ensuring every solution we build is both technically robust and strategically aligned.
+[Six service detail cards — expand on the Home Page service descriptions with full page content per sub-page listed below]
+5.3 AI Consulting (/services/ai-consulting/)
+Title Tag: AI Consulting Services for Business Transformation | mindcraft.aiMeta Description: Strategic AI consulting to help your business identify, plan, and execute AI initiatives that deliver measurable ROI. Expert guidance from strategy to roadmap.
+Heading: AI Consulting: From Strategy to Scalable Action
+Body Copy (3 paragraphs):
+Navigating the AI landscape can be overwhelming — conflicting priorities, vendor noise, and unclear ROI make it difficult to know where to start. mindcraft.ai's AI consulting practice brings structured clarity. We work closely with your leadership team to assess your current state, define your AI ambition, and build a pragmatic roadmap that aligns with your organisational goals.
+Our consultants are not theorists — they are seasoned practitioners who have designed and delivered AI programmes across regulated and high-growth industries. We evaluate your data maturity, technical infrastructure, talent capabilities, and competitive context to identify where AI will create the most sustainable value.
+The output is not a slide deck; it's a living strategy document paired with a prioritised delivery plan — giving your team a clear mandate and a defined path to AI-driven competitive advantage.
+Key Deliverables:
+AI Opportunity Assessment & Gap Analysis
+AI Strategy Document aligned to business objectives
+Prioritised AI Roadmap with effort/value scoring
+Technology & Vendor Selection Guidance
+AI Governance & Ethics Framework
+Change Management & Adoption Planning
+5.4 Generative AI (/services/generative-ai/)
+Title Tag: Generative AI Development Services for Business | mindcraft.aiMeta Description: Build intelligent, scalable generative AI solutions with mindcraft.ai — LLM integration, RAG pipelines, AI assistants, and custom generative workflows for enterprise.
+Heading: Generative AI: Build Tomorrow's Products Today
+Body Copy:Generative AI is not just a trend — it is a foundational shift in how businesses create value. mindcraft.ai's Generative AI practice helps organisations move from experimentation to enterprise-grade deployment. We design and build LLM-powered applications, retrieval-augmented generation (RAG) architectures, AI assistants, and custom generative workflows tailored to your business context and data environment.
+Whether you need to automate content generation, augment customer interactions, accelerate internal knowledge management, or build AI-native products, our engineering teams deliver production-ready systems that integrate seamlessly into your existing technology stack.
+Capabilities:
+Custom LLM Integration & Fine-Tuning
+Retrieval-Augmented Generation (RAG) Pipelines
+AI Chatbots & Virtual Assistants
+Prompt Engineering & Evaluation Frameworks
+Multimodal AI (text, image, audio)
+Responsible AI & Hallucination Mitigation
+5.5 Machine Learning (/services/machine-learning/)
+Title Tag: Machine Learning Solutions & Model Development | mindcraft.aiMeta Description: Predictive analytics, ML model development, and data-driven decision systems. mindcraft.ai builds machine learning solutions that improve accuracy and drive better outcomes.
+Heading: Machine Learning: Decisions Powered by Data
+Body Copy:Machine learning is at the core of every intelligent system. mindcraft.ai builds ML solutions that help businesses predict outcomes, detect anomalies, personalise experiences, and automate complex decisions — all grounded in your real operational data.
+Our ML engineering team works across the full model lifecycle: from data preparation and feature engineering through to model training, validation, deployment, and ongoing monitoring. We use state-of-the-art techniques including ensemble methods, deep learning, time-series forecasting, and NLP to match the right approach to your specific business challenge.
+Capabilities:
+Predictive Modelling & Forecasting
+Classification & Anomaly Detection
+Natural Language Processing (NLP)
+Computer Vision
+Recommendation Engines
+MLOps & Model Lifecycle Management
+5.6 Agentic AI (/services/agentic-ai/)
+Title Tag: Agentic AI Solutions — Autonomous AI Agents for Business | mindcraft.aiMeta Description: Deploy intelligent autonomous agents that reason, plan, and act. mindcraft.ai builds Agentic AI systems that optimise operations and elevate customer experiences.
+Heading: Agentic AI: Intelligent Agents That Work For You
+Body Copy:Agentic AI represents the next frontier of intelligent automation — systems that don't just respond to inputs, but proactively reason, plan, and execute multi-step tasks with minimal human intervention. mindcraft.ai's Agentic AI practice designs and deploys autonomous agent architectures tailored to your most complex operational workflows.
+From AI agents that manage end-to-end customer service interactions to systems that autonomously monitor, triage, and resolve operational issues, our solutions are built to handle ambiguity, adapt to context, and escalate intelligently when human oversight is required.
+Capabilities:
+Multi-Agent System Design & Architecture
+Tool-Using & Function-Calling AI Agents
+Workflow Orchestration with AI Decision Nodes
+AI Agent Monitoring & Guardrails
+Customer-Facing Conversational Agents
+Back-Office Automation with Autonomous Reasoning
+5.7 Data Analytics (/services/data-analytics/)
+Title Tag: Data Analytics & Business Intelligence Services | mindcraft.aiMeta Description: Transform fragmented data into strategic clarity. mindcraft.ai delivers data analytics, BI dashboards, data engineering, and insight-driven solutions for scalable business growth.
+Heading: Data Analytics: From Chaos to Strategic Clarity
+Body Copy:Data is only valuable when it's connected, trusted, and actionable. Many businesses are sitting on vast quantities of data locked in silos, inconsistent formats, or unstructured sources — unable to extract the insight that could drive better decisions. mindcraft.ai's Data Analytics practice helps organisations build the data foundations they need to operate with confidence.
+We design end-to-end data pipelines, integrate disparate sources, build governed data platforms, and deliver intuitive business intelligence dashboards that bring your data to life. The result: a clear, unified view of your business that empowers every stakeholder to make faster, better-informed decisions.
+Capabilities:
+Data Warehouse & Lakehouse Architecture
+ETL/ELT Pipeline Development
+Business Intelligence & Dashboard Design (Power BI, Tableau, Looker)
+Data Quality & Governance Frameworks
+Real-Time Analytics & Event Streaming
+Self-Serve Analytics Enablement
+5.8 AI Literacy & Training (/services/ai-literacy/)
+Title Tag: AI Literacy Training & Workforce Enablement Programmes | mindcraft.aiMeta Description: Equip your team with the knowledge and skills to work with AI confidently. mindcraft.ai delivers tailored AI literacy programmes for leadership, technical, and business teams.
+Heading: AI Literacy: Building an AI-Ready Workforce
+Body Copy:Deploying AI technology without investing in people is one of the most common causes of failed AI programmes. mindcraft.ai's AI Literacy practice ensures your organisation builds genuine human capability alongside its technical systems — creating a workforce that understands, trusts, and works effectively with AI.
+Our training programmes are role-tailored: executive briefings that sharpen strategic AI awareness for leadership; practical workshops that build prompt engineering and AI tool proficiency for business teams; and deep technical programmes for data and engineering professionals. We focus on real-world application, not academic theory.
+Programme Formats:
+Executive AI Strategy Workshops
+Business Team AI Tool Proficiency Programmes
+Technical AI & ML Bootcamps
+AI Ethics & Responsible AI Training
+Custom In-House AI Training Design
+Ongoing AI Coaching & Upskilling Subscriptions
+5.9 Industry Use Cases (/industries/)
+Title Tag: AI Industry Solutions — Retail, Healthcare, Finance & More | mindcraft.aiMeta Description: Discover how mindcraft.ai applies AI to solve real challenges in retail, healthcare, finance, cybersecurity, legal, and logistics.
+Heading: AI Built for Your Industry's Specific Challenges
+Intro:Effective AI is not generic. Every industry operates with unique data environments, regulatory requirements, competitive pressures, and workflow structures. mindcraft.ai develops industry-specific AI solutions that integrate with existing systems and reflect the operational realities of your sector.
+Retail
+Heading: Smarter Inventory. Better Margins. Happier Customers.Copy: AI-powered demand forecasting and inventory optimisation help retailers reduce overstock, eliminate stockouts, and respond to customer demand in real time — turning supply chain intelligence into a direct commercial advantage.
+Healthcare
+Heading: Reducing Friction in Healthcare AdministrationCopy: From intelligent health claims processing to clinical documentation automation, mindcraft.ai helps healthcare organisations cut administrative burden, reduce errors, and free clinical teams to focus on patient outcomes.
+Finance
+Heading: Smarter Credit Decisions at ScaleCopy: Our advanced AI credit scoring models analyse thousands of variables to deliver more accurate, fair, and fast credit assessments — helping financial services organisations reduce default risk while expanding access to credit responsibly.
+Cybersecurity
+Heading: Proactive Threat Intelligence with AICopy: Traditional security tools react. Ours predict. mindcraft.ai builds AI systems that autonomously identify vulnerabilities, detect behavioural anomalies, and initiate intelligent threat response — reducing exposure before attackers can exploit it.
+Legal
+Heading: Faster, More Precise Legal ReviewCopy: AI-assisted contract analysis and document review dramatically accelerates legal processes — extracting key clauses, flagging risks, and benchmarking terms — enabling legal teams to handle higher volumes with greater accuracy and consistency.
+Travel & Logistics
+Heading: Intelligent Routing for Complex OperationsCopy: Dynamic route optimisation powered by machine learning helps logistics and travel businesses reduce fuel costs, improve delivery reliability, and adapt in real time to disruptions — delivering efficiency gains that compound across every journey.
+5.10 AI Readiness Assessment (/ai-assessment/)
+Title Tag: Free AI Readiness Assessment for Businesses | mindcraft.aiMeta Description: Take mindcraft.ai's free AI Readiness Assessment and receive a personalised AI roadmap. Discover your AI maturity level in under 5 minutes.
+Heading: Find Out How AI-Ready Your Business Really Is
+Sub-heading: Receive a Free, Personalised AI Roadmap in Minutes
+Body Copy:Most businesses know AI matters — but few have a clear picture of where they stand. Our AI Readiness Assessment is a structured diagnostic that evaluates your organisation across five key dimensions: data maturity, technology infrastructure, talent capability, process automation potential, and leadership alignment.
+In less than five minutes, you'll receive a customised report that scores your AI readiness, identifies your most significant gaps, and outlines the priority actions that will move your organisation forward fastest.
+What You'll Get:
+An AI Maturity Score across five key dimensions
+Identification of your highest-priority improvement areas
+A personalised AI Roadmap with recommended next steps
+Comparison benchmarks against industry peers
+A follow-up consultation offer with an mindcraft.ai advisor
+CTA Button: Start the Free AssessmentNo email required to begin. Your results will be delivered instantly.
+5.11 About Us (/about/)
+Title Tag: About mindcraft.ai — AI Transformation Experts | mindcraft.aiMeta Description: Learn about mindcraft.ai — our mission, leadership team, values, and why organisations across industries trust us to deliver AI that works.
+Heading: We Build AI That Actually Works for Your Business
+Mission Statement:mindcraft.ai exists to make artificial intelligence accessible, practical, and genuinely valuable for every business — regardless of where they are on their AI journey. We believe the most powerful AI is the kind that solves real problems, integrates into real workflows, and delivers results that real people can see and trust.
+About Section Body:Founded by experienced practitioners from across the AI, data engineering, and enterprise technology landscape, mindcraft.ai combines deep technical expertise with commercial pragmatism. Our team brings over two decades of combined experience delivering complex AI and data programmes for organisations spanning retail, healthcare, financial services, manufacturing, and technology sectors.
+We are not an AI vendor selling software licences. We are a delivery partner — embedded alongside your team, invested in your outcomes, and accountable for results.
+Our Values:
+Transparency — We explain how our AI works and why we recommend what we do
+Commercial Focus — Every solution is designed with ROI as a primary success metric
+Collaboration — We work with your team, not around them
+Responsibility — We build AI that is fair, explainable, and fit for purpose
+Continuous Learning — We stay at the leading edge so our clients always benefit from the latest advances
+5.12 Contact Page (/contact/)
+Title Tag: Contact mindcraft.ai — Book a Free AI ConsultationMeta Description: Get in touch with the mindcraft.ai team. Book a free consultation, ask about our services, or explore partnership opportunities.
+Heading: Let's Start Your AI Journey Together
+Sub-heading: Whether you have a specific project in mind or simply want to explore what AI could mean for your business, we'd love to hear from you.
+Contact Form Fields:
+Full Name (required)
+Company Name (required)
+Job Title (optional)
+Business Email (required)
+Phone Number (optional)
+How can we help you? [Dropdown: AI Consulting / Generative AI / Machine Learning / Agentic AI / Data Analytics / AI Literacy / General Enquiry]
+Message / Project Details (text area, required)
+[Submit CTA: "Book My Free Consultation"]
+Alternative Contact:Prefer to book directly?Book a call with our team → [links to calendar scheduling tool]
+6. Global Site Elements
+6.1 Navigation Bar
+Logo: mindcraft.ai (with custom SVG mark)Primary Nav Links:
+Services (mega menu dropdown with 6 service links)
+Industries (dropdown with 6 industry links)
+Products
+Case Studies
+Resources (dropdown: Blog, Guides, Webinars)
+About Us
+Header CTAs:
+AI Assessment (ghost button)
+Book a Consultation (primary button — accent colour)
+6.2 Footer
+Column 1 — mindcraft.ai BrandLogo + 1-line description: "AI transformation partner for forward-thinking businesses."Social links: LinkedIn, Twitter/X, Instagram, Facebook
+Column 2 — Services
+AI Consulting
+Generative AI
+Machine Learning
+Agentic AI
+Data Analytics
+AI Literacy
+Column 3 — Company
+About Us
+Case Studies
+Resources / Blog
+Industries
+Careers
+Column 4 — ContactOffice Address (UK)careers@mindcraft.aiBook a Consultation CTA
+Footer Bottom Bar:Copyright © 2026 mindcraft.ai | Privacy Policy | Terms & Conditions
+7. SEO Strategy Requirements
+7.1 Global SEO Principles
+- All pages must include a unique `<title>` tag (50–60 characters) and `<meta description>` (150–160 characters)
+H1 tag: one per page, containing the primary keyword
+H2/H3 tags: used for logical content hierarchy, incorporating secondary keywords naturally
+Internal linking: every service page links to at least 2 other relevant service or industry pages
+Image alt tags: all images must include descriptive, keyword-aware alt text
+Schema markup: implement Organization, Service, FAQPage, and BreadcrumbList structured data where applicable
+Page URLs: short, descriptive, lowercase-hyphenated slugs (no query parameters)
+Canonical tags: all pages must include a self-referencing canonical tag
+XML sitemap and robots.txt must be configured on launch
+7.2 Core Target Keywords
+Page
+Primary Keyword
+Secondary Keywords
+Home
+AI consulting services for businesses
+enterprise AI solutions, AI transformation partner
+AI Consulting
+AI strategy consulting
+AI roadmap, AI business consulting
+Generative AI
+generative AI development services
+LLM integration, RAG pipeline, AI assistants
+Machine Learning
+machine learning solutions
+predictive analytics, ML model development
+Agentic AI
+agentic AI systems
+autonomous AI agents, AI workflow automation
+Data Analytics
+data analytics services
+business intelligence, data strategy
+AI Literacy
+AI literacy training
+AI workforce training, AI upskilling
+Industries
+AI solutions by industry
+retail AI, healthcare AI, finance AI
+AI Assessment
+AI readiness assessment
+AI maturity model, AI readiness tool
+8. Design & UX Requirements
+Requirement
+Specification
+Color Palette
+Deep navy / midnight blue primary, electric teal accent, clean white/off-white backgrounds
+Typography
+Display: Instrument Serif or Boska (Fontshare). Body: General Sans or Satoshi (Fontshare)
+Spacing System
+4px base unit, fluid spacing via clamp()
+Responsive Design
+Mobile-first; optimised at 375px, 768px, 1024px, 1280px+
+Dark/Light Mode
+Both modes supported with prefers-color-scheme default + manual toggle
+Accessibility
+WCAG 2.1 AA compliant minimum
+Performance
+Core Web Vitals: LCP < 2.5s, CLS < 0.1, INP < 200ms
+Animations
+Subtle scroll-triggered reveals, no auto-playing video, respect prefers-reduced-motion
+9. Functional Requirements
+Feature
+Priority
+Notes
+AI Readiness Assessment tool
+Must Have
+Interactive multi-step form with instant results report
+Consultation booking calendar
+Must Have
+Calendly or equivalent embedded
+Blog / Resource centre
+Must Have
+CMS-managed, supports categories and tags
+Contact form with routing
+Must Have
+Route submissions by enquiry type
+Case study / success story pages
+High
+Template-based, CMS-managed
+Newsletter signup
+Medium
+Embedded in footer and resource pages
+Cookie consent (GDPR)
+Must Have
+Required for UK/EU compliance
+Analytics (GA4 + Search Console)
+Must Have
+Configured pre-launch
+Live chat or AI chat widget
+Medium
+Consider Intercom or equivalent
+LinkedIn Lead Gen integration
+Low
+Phase 2 consideration
+10. Content Governance
+Item
+Owner
+Frequency
+Blog / Resources
+Content Team
+2 posts/month minimum
+Case Studies
+Business Development
+As engagements complete
+Service Pages
+Marketing + Delivery Leads
+Quarterly review
+Industry Pages
+Vertical Practice Leads
+Semi-annual review
+Testimonials
+Client Success
+Ongoing collection
+Awards & Certifications
+Marketing
+As awarded
+11. Launch Checklist
+[ ] All page content approved by stakeholders
+[ ] SEO metadata implemented on all pages
+[ ] Schema markup validated (Google Rich Results Test)
+[ ] All images optimised (WebP, lazy-loaded, with alt text)
+[ ] Mobile responsiveness tested (375px, 768px, 1024px, 1280px)
+[ ] WCAG 2.1 AA accessibility audit passed
+[ ] Core Web Vitals in green on all key pages
+[ ] Cookie consent banner implemented
+[ ] Contact form tested end-to-end
+[ ] AI Assessment tool tested end-to-end
+[ ] Google Analytics 4 & Search Console configured
+[ ] XML sitemap submitted to Google Search Console
+[ ] Robots.txt configured
+[ ] SSL certificate active
+[ ] 301 redirects configured if migrating from existing domain
+[ ] Cross-browser testing (Chrome, Safari, Firefox, Edge)
+Document prepared for mindcraft.ai development team. All content is original and has been developed for SEO performance and brand positioning. Content may be refined in collaboration with stakeholders prior to final publication.
